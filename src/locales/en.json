@@ -8,13 +8,13 @@
     "sign_up_link": "Sign up"
   },
   "BaseTemplate": {
-    "description": "Starter code for your Nextjs Boilerplate with Tailwind CSS",
+    "description": "Agent that refines ideas into user stories ready for development",
     "made_with": "Made with <author></author>."
   },
   "Index": {
-    "meta_title": "Next.js Boilerplate Presentation",
-    "meta_description": "Next js Boilerplate is the perfect starter code for your project. Build your React application with the Next.js framework.",
-    "sponsors_title": "Sponsors"
+    "meta_title": "CoScrum",
+    "meta_description": "CoScrum turns vague ideas into clear user stories ready for development",
+    "headline": "Refine your ideas into development-ready user stories"
   },
   "Counter": {
     "meta_title": "Counter",
