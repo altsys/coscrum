@@ -26,4 +26,4 @@ export default async function SignInPage(props: ISignInPageProps) {
   return (
     <SignIn path={getI18nPath('/sign-in', locale)} />
   );
-};
+}
