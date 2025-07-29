@@ -23,10 +23,10 @@ export default async function UserProfilePage(props: IUserProfilePageProps) {
   setRequestLocale(locale);
 
   return (
-    <div className="my-6 -ml-16">
+    <div className="py-8 max-w-5xl mx-auto">
       <UserProfile
         path={getI18nPath('/dashboard/user-profile', locale)}
       />
     </div>
   );
-};
+}
